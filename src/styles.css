@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    font-family: 'Aeronaut', sans-serif;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'Aeronaut';
+    src: url('../utilities/POIAeronautTrial-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#intro {
+    margin-top: 150px;
+}
+
+
+.text-primary {
+    color: #3269FF !important;
+  }
